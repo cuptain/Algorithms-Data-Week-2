@@ -7,7 +7,7 @@
     <ProjectGuid>{070AA413-715D-4C7E-8B79-D1AC29E24AC2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>К_ая_порядковая_статистика</RootNamespace>
-    <AssemblyName>К_ая_порядковая_статистика</AssemblyName>
+    <AssemblyName>К-ая порядковая статистика</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

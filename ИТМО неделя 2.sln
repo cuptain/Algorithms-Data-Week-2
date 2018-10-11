@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ИТМО неделя 2", "ИТМО неделя 2\ИТМО неделя 2.csproj", "{6AB53B7C-71E6-40DB-B8ED-9D8EEE9F82AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка слиянием", "ИТМО неделя 2\Сортировка слиянием.csproj", "{6AB53B7C-71E6-40DB-B8ED-9D8EEE9F82AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Число инверсий", "Число инверсий\Число инверсий.csproj", "{41E5AA8A-7684-4B4E-8E5F-3486EFFD65A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Анти-quick sort", "Анти-quick sort\Анти-quick sort.csproj", "{356E8CCF-CA65-4A91-BF97-ED0E95B9BB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "К-ая порядковая статистика", "К-ая порядковая статистика\К-ая порядковая статистика.csproj", "{070AA413-715D-4C7E-8B79-D1AC29E24AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка пугалом", "Сортировка пугалом\Сортировка пугалом.csproj", "{730D7EDD-1D02-41B8-BA16-EDDEEE576CD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{6AB53B7C-71E6-40DB-B8ED-9D8EEE9F82AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AB53B7C-71E6-40DB-B8ED-9D8EEE9F82AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AB53B7C-71E6-40DB-B8ED-9D8EEE9F82AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E5AA8A-7684-4B4E-8E5F-3486EFFD65A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E5AA8A-7684-4B4E-8E5F-3486EFFD65A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E5AA8A-7684-4B4E-8E5F-3486EFFD65A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E5AA8A-7684-4B4E-8E5F-3486EFFD65A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356E8CCF-CA65-4A91-BF97-ED0E95B9BB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356E8CCF-CA65-4A91-BF97-ED0E95B9BB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356E8CCF-CA65-4A91-BF97-ED0E95B9BB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356E8CCF-CA65-4A91-BF97-ED0E95B9BB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070AA413-715D-4C7E-8B79-D1AC29E24AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070AA413-715D-4C7E-8B79-D1AC29E24AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070AA413-715D-4C7E-8B79-D1AC29E24AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070AA413-715D-4C7E-8B79-D1AC29E24AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730D7EDD-1D02-41B8-BA16-EDDEEE576CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730D7EDD-1D02-41B8-BA16-EDDEEE576CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730D7EDD-1D02-41B8-BA16-EDDEEE576CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730D7EDD-1D02-41B8-BA16-EDDEEE576CD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

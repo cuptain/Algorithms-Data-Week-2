@@ -7,7 +7,7 @@
     <ProjectGuid>{730D7EDD-1D02-41B8-BA16-EDDEEE576CD6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Сортировка_пугалом</RootNamespace>
-    <AssemblyName>Сортировка_пугалом</AssemblyName>
+    <AssemblyName>Сортировка пугалом</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

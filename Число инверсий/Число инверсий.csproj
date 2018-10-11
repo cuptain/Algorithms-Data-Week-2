@@ -7,7 +7,7 @@
     <ProjectGuid>{41E5AA8A-7684-4B4E-8E5F-3486EFFD65A2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Число_инверсий</RootNamespace>
-    <AssemblyName>Число_инверсий</AssemblyName>
+    <AssemblyName>Число инверсий</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
